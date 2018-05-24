@@ -4,7 +4,7 @@ pip3 install -r requiremetns.txt
 ```
 
 ## Configuration
-Change account name and key. You will find thus on portal.azure.com
+Change [account name and key](https://github.com/pceuropa/comosdb-flask/blob/master/db.py). You will find thus on portal.azure.com
 
 ##  Usage Storage Client
 ```
