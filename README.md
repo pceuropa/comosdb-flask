@@ -14,7 +14,7 @@ python3 main.py
 
 
 ##  Stack 
-Flask Rest-plus
-Swagger
-CosmosDB
-Protocol Buffers (without warranty: not sur if well used)
+- Flask Rest-plus
+- Swagger
+- CosmosDB
+- Protocol Buffers (without warranty: not sur if well used)
