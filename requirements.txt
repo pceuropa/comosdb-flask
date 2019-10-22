@@ -129,4 +129,4 @@ SQLAlchemy==1.1.5
 SQLAlchemy-Utils==0.32.12
 urllib3==1.22
 webargs==2.1.0
-Werkzeug==0.11.15
+Werkzeug==0.15.3
