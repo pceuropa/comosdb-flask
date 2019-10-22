@@ -128,5 +128,5 @@ six==1.11.0
 SQLAlchemy==1.1.5
 SQLAlchemy-Utils==0.32.12
 urllib3==1.22
-webargs==2.1.0
+webargs==5.1.3
 Werkzeug==0.15.3
