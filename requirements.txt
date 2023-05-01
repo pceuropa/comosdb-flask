@@ -88,7 +88,7 @@ click==6.7
 colorlog==3.1.4
 cryptography==2.3
 entrypoints==0.2.3
-Flask==1.0
+Flask==2.3.2
 Flask-Cors==3.0.2
 Flask-Login==0.4.0
 flask-marshmallow==0.7.0
